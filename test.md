@@ -1,6 +1,0 @@
-# Test
-
-This is a test of the ease of publishing
-
-**It better work!!**
-
