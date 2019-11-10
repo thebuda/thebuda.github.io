@@ -1,5 +1,6 @@
 ---
-title: Test Case for Experiments
+layout: default
+title: "A Test Case for Experiments"
 ---
 
 # A Test File 
