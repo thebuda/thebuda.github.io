@@ -1,3 +1,9 @@
+---
+title: Sctosh Delight
+type: drink
+keto: yes
+---
+
 # Scotish Delight
 
 - High quality Scotch

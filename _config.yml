@@ -1,4 +1,11 @@
-name: The MightyBuda Cookbook
+name: Mighty Buda's Collection
 markdown: kramdown
-
 theme: jekyll-theme-architect
+email: jonathan.r.carpenter@gmail.com
+description: A collection of notes, thoughts, recipes, music, and musings.
+
+collections:
+  recipes:
+    output: true
+  experiments:
+    output: true
