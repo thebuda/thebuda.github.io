@@ -1,2 +1,4 @@
 name: The MightyBuda Cookbook
 markdown: kramdown
+
+theme: jekyll-theme-architect
