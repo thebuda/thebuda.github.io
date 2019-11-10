@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buffalo Chicken Stew
-type: Side
+type: One Pot Meal
 low_carb: yes
 ---
 
