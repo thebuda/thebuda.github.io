@@ -1,5 +1,5 @@
 ---
-title: Scotosh Delight
+title: Scotish Delight
 type: drink
 keto: yes
 ---
