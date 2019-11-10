@@ -9,7 +9,7 @@ low_carb: no
 
 ## Ingredients
 
-- 2 Tbsp canola (or another vegetable) oil
+- 2 Tbsp canola oil
 - 1 medium onion - diced
 - 1 large carrot - diced
 - 1 bell pepper - diced
@@ -30,7 +30,7 @@ low_carb: no
 
 ## Instructions
 
-1. Set Instant Pot to saute.  Add oil, onion, carrot, pepper, and celery and saute until onions turn clear.
+1. Set [Instant Pot](https://amzn.to/2Mzd1ym) to saute.  Add oil, onion, carrot, pepper, and celery and saute until onions turn clear.
 2. Add remaining ingredients and lock lid. 
 3. Cook on high pressure for 1 hour
 4. Let natural pressure release for 10 minutes, then you may rapidly release pressure.
