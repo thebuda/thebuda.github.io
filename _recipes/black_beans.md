@@ -36,3 +36,5 @@ low_carb: no
 4. Let natural pressure release for 10 minutes, then you may rapidly release pressure.
 5. Scoop out half of the beans and set aside.
 6. Take a stick blender and process remaining soup in the pot until smooth. Return saved beans to pot and stir in.
+
+***
