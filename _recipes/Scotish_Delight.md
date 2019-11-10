@@ -2,7 +2,7 @@
 layout: default
 title: Scotish Delight
 type: drink
-keto: yes
+low_carb: yes
 ---
 
 # Scotish Delight

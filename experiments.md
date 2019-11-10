@@ -1,11 +1,11 @@
 ---
-title: "A list of recipes"
+title: "Projects and Experiments"
 ---
 
 <ul>
-  {% for exeriments in site.experiments %}
+  {% for experiments in site.experiments %}
     <li>
-      <a href="{{ experiments.url }}">{{ experiments.title }}</a>
+      <a href="{{ experiments.url }}">{{ experiments.title }}</a> - {{ experiments.experiment_description }}
     </li>
   {% endfor %}
 </ul>
