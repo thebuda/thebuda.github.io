@@ -11,3 +11,5 @@ collections:
     output: true
   ukulele:
     output: true
+  other:
+    output: true

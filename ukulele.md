@@ -1,8 +1,9 @@
 ---
 title: Ukulele Stuff
+layout: default
 ---
 
-#Ukulele Stuff
+# Ukulele Stuff
 
 My small but growing collection of Ukulele tabs and other bits of information.
 <ul>
