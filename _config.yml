@@ -7,3 +7,7 @@ collections:
     output: true
   experiments:
     output: true
+  projects:
+    output: true
+  ukulele:
+    output: true

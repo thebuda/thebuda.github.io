@@ -1,7 +1,7 @@
 ---
 layout: default
 title: A Test Case for Experiments
-experiment_description: Testing the test of tests
+description: Testing the test of tests
 ---
 
 # A Test File 
