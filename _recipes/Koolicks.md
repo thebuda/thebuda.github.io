@@ -9,9 +9,9 @@ low_carb: no
 
 ## Ingredients
 
-2 Quart sized jars of Dill Pickles
-1 pkg of Koolaid
-2/3 Cup Sugar
+- 2 Quart sized jars of Dill Pickles
+- 1 pkg of Koolaid
+- 2/3 Cup Sugar
 
 
 ## Instructions
