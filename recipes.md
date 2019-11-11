@@ -1,5 +1,5 @@
 ---
-layout: layout1
+layout: default
 title: "A list of recipes"
 ---
 # Recipe Collections
