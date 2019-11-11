@@ -7,6 +7,8 @@ layout: default
 
 Future home of cats and dogs that don't fit nicely in any packages
 
+## Posts and Articles
+
 <ul>
   {% for other in site.other %}
     <li>
@@ -14,3 +16,7 @@ Future home of cats and dogs that don't fit nicely in any packages
     </li>
   {% endfor %}
 </ul>
+
+## My Twitter Feed
+
+<a class="twitter-timeline" href="https://twitter.com/thebuda?ref_src=twsrc%5Etfw">Tweets by thebuda</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
