@@ -16,16 +16,17 @@ So What are my goals for this website?  Well, here's what I wrote down when I st
 
 1) It needs to be a site I can use to collect my own notes and information to refer back to.  If I make a Ukulele Tab and want to open it up on my phone, I should be able to use my own site.  Same thing for recipes or snippets of code.
 
-2) I *hate* when recipe sites make you read through 5 pages of sloppy writing, long boring narratives about the invention of this or that sub-par dish they "whipped."  A good recipe site should be fast, easy to read, easy to print.
+2) I *hate* when recipe sites make you read through five pages of sloppy writing, long boring narratives about the invention of this or that sub-par dish they "whipped."  A good recipe site should be fast, easy to read, easy to print.
 
-3) While I'd love to have crazy cash rolling in, I'm not a blogger, and this isn't my job.  It's a hobby, and I need to acknowledge that. While I may link to occasional products, it's going to be because it eases the understanding of the reader, not because I want to make money.
+3) While I'd love to have crazy cash rolling in, I'm not a blogger, and this isn't my job.  It's a hobby, and I need to acknowledge that. While I may link to occasional products, it's going to be because it eases the understanding of the reader, not because I want to make money. So there will be no ads on this site, no Google Analytics, no Patreon links.  If you find sme use in what you find here, just tell your friends. 
 
 ## About me
 
+I'm a licensed Professional Engineer, living in Virginia and working in Government Acquisition.  My hobbies include this non-sense, reading fantasy novels, gardening, and occasionally hiking.  
+
+
 ## Contact me
 
-I hate spam, so I'm not one to put my personal email address out there.  If you'd like to contact me, please use Twitter.
+I hate spam, so I'm not one to put my personal email address out there.  If you'd like to contact me, please use Twitter ([@thebuda](https://twitter.com/intent/tweet?screen_name=thebuda)).
 
-<a href="https://twitter.com/intent/tweet?screen_name=thebuda&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @thebuda</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-You can also message me on Reddit at [https://www.reddit.com/user/Thebuda/](https://www.reddit.com/user/Thebuda/)
+You can also message me on Reddit at [u/Thebuda/](https://www.reddit.com/user/Thebuda/) if you're not a Twitter user.
