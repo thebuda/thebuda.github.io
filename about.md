@@ -8,9 +8,11 @@ I've been making websites on and off for over 20 years.  I started at [Angelfire
 
 *"Thanks for the worthless history lesson Buda, but, who cares?*
 
-Fair point, but the reason I say all of that is I've been around the block and having wasted a lot of time chasing after the next thing, I wanted to get back to basics.  I've moved over to Github Pages because a) it's free, b) open to all sorts of hand-coding options, c) lets me share my code with you if your interested, and d) is helping me learn more and more.
+Fair point, but the reason I say all of that is I've been around the block and having wasted a lot of time chasing after the next thing, I wanted to get back to basics.  I've moved over to Github Pages because a) it's free, b) open to all sorts of hand-coding options, c) lets me share my code with you if your interested (you can see everything at [https://github.com/thebuda/thebuda.github.io](https://github.com/thebuda/thebuda.github.io), and d) is helping me learn more and more.
 
-So What are my goals for this website.  Well, here's what I wrote down when I started.
+***
+
+So What are my goals for this website?  Well, here's what I wrote down when I started.
 
 1) It needs to be a site I can use to collect my own notes and information to refer back to.  If I make a Ukulele Tab and want to open it up on my phone, I should be able to use my own site.  Same thing for recipes or snippets of code.
 
@@ -22,7 +24,7 @@ So What are my goals for this website.  Well, here's what I wrote down when I st
 
 ## Contact me
 
-I hate spam, so I'm not one to put my personal email address out there.  If you'd like to contact me please use Twitter.
+I hate spam, so I'm not one to put my personal email address out there.  If you'd like to contact me, please use Twitter.
 
 <a href="https://twitter.com/intent/tweet?screen_name=thebuda&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @thebuda</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
