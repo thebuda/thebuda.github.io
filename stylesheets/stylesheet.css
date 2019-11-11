@@ -31,7 +31,7 @@ h2:before {
 }
 
 #container {
-		background-image: url("images/dot-grid.png");
+		background-image: url("dot-grid.png");
 		width: 800px;
 		margin-left: auto;
 		margin-right: auto;
