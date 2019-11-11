@@ -1,6 +1,7 @@
 ---
 title: Project Template
 description: A testing template for projects
+layout: default
 ---
 
 # Project Template
