@@ -4,11 +4,11 @@ title: About...all of this
 
 ## About this site
 
-I've been making websites on and off for over 20 years.  I started at [Angelfire](https://en.wikipedia.org/wiki/Angelfire) when they opened in 1996, then moved to [Geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) for a few years before settling at Fuitadnet for a while.  Then I jumped to [ipage](https://en.wikipedia.org/wiki/IPage) for 5-6 years running a Wordpress blog. For the last few years, I was at [Blogger](https://en.wikipedia.org/wiki/Blogger_(service)) because it was easy and free. 
+I've been making websites on and off for over 20 years.  I started at [Angelfire](https://en.wikipedia.org/wiki/Angelfire){:target="_blank"} when they opened in 1996, then moved to [Geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities){:target="_blank"} for a few years before settling at Fuitadnet for a while.  Then I jumped to [ipage](https://en.wikipedia.org/wiki/IPage){:target="_blank"} for 5-6 years running a Wordpress blog. For the last few years, I was at [Blogger](https://en.wikipedia.org/wiki/Blogger_(service)){:target="_blank"} because it was easy and free. 
 
 *"Thanks for the worthless history lesson Buda, but, who cares?*
 
-Fair point, but the reason I say all of that is I've been around the block and having wasted a lot of time chasing after the next thing, I wanted to get back to basics.  I've moved over to Github Pages because a) it's free, b) open to all sorts of hand-coding options, c) lets me share my code with you if your interested (you can see everything at [https://github.com/thebuda/thebuda.github.io](https://github.com/thebuda/thebuda.github.io), and d) is helping me learn more and more.
+Fair point, but the reason I say all of that is I've been around the block and having wasted a lot of time chasing after the next thing, I wanted to get back to basics.  I've moved over to Github Pages because a) it's free, b) open to all sorts of hand-coding options, c) lets me share my code with you if your interested (you can see everything at [https://github.com/thebuda/thebuda.github.io](https://github.com/thebuda/thebuda.github.io){:target="_blank"}, and d) is helping me learn more and more.
 
 ***
 
@@ -27,6 +27,6 @@ I'm a licensed Professional Engineer, living in Virginia and working in Governme
 
 ## Contact me
 
-I hate spam, so I'm not one to put my personal email address out there.  If you'd like to contact me, please use Twitter ([@thebuda](https://twitter.com/intent/tweet?screen_name=thebuda)).
+I hate spam, so I'm not one to put my personal email address out there.  If you'd like to contact me, please use Twitter ([@thebuda](https://twitter.com/intent/tweet?screen_name=thebuda){:target="_blank"}).
 
-You can also message me on Reddit at [u/Thebuda/](https://www.reddit.com/user/Thebuda/) if you're not a Twitter user.
+You can also message me on Reddit at [u/Thebuda/](https://www.reddit.com/user/Thebuda/){:target="_blank"} if you're not a Twitter user.
