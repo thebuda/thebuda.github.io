@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: layout1
 title: "A list of recipes"
 ---
 
