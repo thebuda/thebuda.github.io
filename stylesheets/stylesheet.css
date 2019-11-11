@@ -1,0 +1,62 @@
+body {
+	background-color: #DDDDDD;
+	color: #333333
+}
+
+a {
+	text-decoration: none;
+	color: #333333;
+}
+
+h1 {
+	letter-spacing: -3px;
+}
+
+h1:before {
+	padding-right: 0.3em;
+	margin-left: -1.0em;
+	color: #333333;
+	content: "#";
+}
+
+h2 {
+	letter-spacing: -3px;
+}
+
+h2:before {
+	padding-right: 0.3em;
+	margin-left: -1.0em;
+	color: #333333;
+	content: "##";
+}
+
+#container {
+		background-image: url("images/dot-grid.png");
+		width: 800px;
+		margin-left: auto;
+		margin-right: auto;
+		font-family: 'Kalam', cursive;
+}
+
+#header {
+	text-align: center;
+	padding: 10px;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 45;
+}
+
+#navigation {
+	Text-align: center;
+	font-size: 26;
+	padding: 10px;
+}
+
+#main_content {
+	padding: 10px 40px 10px 40px;
+}
+
+#footer {
+	padding: 10px;
+	text-align: right;
+	clear: both;
+}
