@@ -1,5 +1,7 @@
 # The Mighty Buda Collection
 
+This site is still in the setting up phase of life and I'm transitioning stuff from old sources to new.
+
 ## To Do List
 
 - [x] Start Basic layout
@@ -11,3 +13,11 @@
 - [x] set up contact page
 - [ ] develop css stylesheets
 - [ ] investigate twitter integration
+
+
+## Future articles
+
+- [ ] Cyber security and internet privacy basics
+- [ ] setting up a pi-hole server
+- [ ] setting up my PiVPN server
+- [ ] List of useful links for quick reference
