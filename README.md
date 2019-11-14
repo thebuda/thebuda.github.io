@@ -11,8 +11,9 @@ This site is still in the setting up phase of life and I'm transitioning stuff f
 - [x] Develop Ukulele Index
 - [ ] Transfr projects from Blogger to Github
 - [x] set up contact page
-- [ ] develop css stylesheets
-- [ ] investigate twitter integration
+- [x] develop css stylesheets
+- [x] ~~investigate twitter integration~~
+- [x] transfer DNS server
 
 
 ## Future articles
