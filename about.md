@@ -18,7 +18,7 @@ So What are my goals for this website?  Well, here's what I wrote down when I st
 
 2) I *hate* when recipe sites make you read through five pages of sloppy writing, long boring narratives about the invention of this or that sub-par dish they "whipped."  A good recipe site should be fast, easy to read, easy to print.
 
-3) While I'd love to have crazy cash rolling in, I'm not a blogger, and this isn't my job.  It's a hobby, and I need to acknowledge that. While I may link to occasional products, it's going to be because it eases the understanding of the reader, not because I want to make money. So there will be no ads on this site, no Google Analytics, no Patreon links.  If you find sme use in what you find here, just tell your friends. 
+3) While I'd love to have crazy cash rolling in, I'm not a blogger, and this isn't my job.  It's a hobby, and I need to acknowledge that. While I may link to occasional products, it's going to be because it eases the understanding of the reader, not because I want to make money. So there will be no ads on this site, no Google Analytics, no Patreon links.  If you find some use in what you find here, just tell your friends. 
 
 ## About me
 
