@@ -14,6 +14,7 @@ This site is still in the setting up phase of life and I'm transitioning stuff f
 - [x] develop css stylesheets
 - [x] ~~investigate twitter integration~~
 - [x] transfer DNS server
+- [ ] SEO and Jekyll integration
 
 
 ## Future articles
@@ -21,4 +22,4 @@ This site is still in the setting up phase of life and I'm transitioning stuff f
 - [ ] Cyber security and internet privacy basics
 - [ ] setting up a pi-hole server
 - [ ] setting up my PiVPN server
-- [ ] List of useful links for quick reference
+- [x] List of useful links for quick reference
