@@ -16,17 +16,17 @@ Ninite is a fantastic tool that can set up a new computer, or update an existing
 All of these apps can be installed one by one, but this is *much* faster, and in my mind more secure as I won't inadvertently sign up for emails, "search bars," or other program add-ons I don't want.
 
 My favorite apps to load via Ninite
--- [Chrome](https://www.google.com/chrome/) - My favorite browser for its speed and ease of use
--- [Firefox](https://www.mozilla.org/en-US/firefox/) - My favorite browser when I'm concerned about privacy
--- [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - a speedy, minimal PDF reader (unlike the heavy-handed Adobe Reader)
--- [PDF Creator](https://www.pdfforge.org/pdfcreator) - Allows you to print to PDF like a regular printer
--- [LibreOffice](https://www.libreoffice.org/) - Microsoft Office alternative.  I've never had an issue using files from Office in LibreOffice or vice versa, and the price is *much* better
--- [Classic Shell](http://www.classicshell.net/) - brings back a more classic Windows XP look to Windows 10
--- [Teracopy](https://www.codesector.com/teracopy) - This utility replaces the standard copy, move, cut, paste for file manager.  I found it slightly faster, but also much easier to see what's going on and manage the movement of multiple files easier
--- [Notepad++](https://notepad-plus-plus.org/) - This entire site was written using this simple, but super powerful, text editor.  It is made to highlight syntax for tons of programming languages, allowing you to see when you've forgotten an argument or to close a bit of code.
--- [PuTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - the simple go-to program to connect to a remote computer via terminal.  If you play with Linux or raspberry pi stuff, you will need this.
--- [VLC](https://www.videolan.org/vlc/index.html) - VLC plays *everything*.  It can handle all of your move needs. It can also cut, resize, splice, and trim movies.  Its the default player on every computer I own and use
--- [7-Zip](https://www.7-zip.org/) - high compression ratio and commonly used file archiver.  Think of WinZIP on steroids.
+- [Chrome](https://www.google.com/chrome/) - My favorite browser for its speed and ease of use
+- [Firefox](https://www.mozilla.org/en-US/firefox/) - My favorite browser when I'm concerned about privacy
+- [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - a speedy, minimal PDF reader (unlike the heavy-handed Adobe Reader)
+- [PDF Creator](https://www.pdfforge.org/pdfcreator) - Allows you to print to PDF like a regular printer
+- [LibreOffice](https://www.libreoffice.org/) - Microsoft Office alternative.  I've never had an issue using files from Office in LibreOffice or vice versa, and the price is *much* better
+- [Classic Shell](http://www.classicshell.net/) - brings back a more classic Windows XP look to Windows 10
+- [Teracopy](https://www.codesector.com/teracopy) - This utility replaces the standard copy, move, cut, paste for file manager.  I found it slightly faster, but also much easier to see what's going on and manage the movement of multiple files easier
+- [Notepad++](https://notepad-plus-plus.org/) - This entire site was written using this simple, but super powerful, text editor.  It is made to highlight syntax for tons of programming languages, allowing you to see when you've forgotten an argument or to close a bit of code.
+- [PuTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - the simple go-to program to connect to a remote computer via terminal.  If you play with Linux or raspberry pi stuff, you will need this.
+- [VLC](https://www.videolan.org/vlc/index.html) - VLC plays *everything*.  It can handle all of your move needs. It can also cut, resize, splice, and trim movies.  Its the default player on every computer I own and use
+- [7-Zip](https://www.7-zip.org/) - high compression ratio and commonly used file archiver.  Think of WinZIP on steroids.
 
 ### [Zenni Optical](https://www.zennioptical.com/)
 
@@ -56,3 +56,5 @@ The software can be installed on Windows, Mac, or Linux.  Windows users will wan
 ### [BitWarden](https://bitwarden.com/)
 
 Password management is *critical*.  YOu need unique passwords for all of your systems. At the rate of hacks in the news, you can not trust that your username, email, and passwords are not a day away from being leaked or stolen.  BitWarden solves that problem with a cross-platform, user-friendly, cloud-based password management system that works on android, iPhone, as plugins for Chrome and Firefox, and directly in the browser.  It's free, open-source, and *highly* recommended by people in the cybersecurity world.
+
+***
