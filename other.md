@@ -5,9 +5,8 @@ layout: default
 
 # Miscellaneous content
 
-Future home of cats and dogs that don't fit nicely in any packages
+Home of cats and dogs that don't fit nicely in any packages
 
-## Posts and Articles
 
 <ul>
   {% for other in site.other %}
