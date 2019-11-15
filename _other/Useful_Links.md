@@ -38,14 +38,6 @@ They have prescription glasses as low as $7!  They also have a wide variety of f
 
 As an example, I needed some inexpensive prescription sunglasses to leave in my car, the wife's car, and my work backpack.  I got 4 pairs of glasses, one with polarization, for $100.
 
-### [BitWarden](https://bitwarden.com/)
-
-Password management is *critical*.  YOu need unique passwords for all of your systems. At the rate of hacks in the news, you can not trust that your username, email, and passwords are not a day away from being leaked or stolen.  BitWarden solves that problem with a cross-platform, user-friendly, cloud-based password management system that works on android, iPhone, as plugins for Chrome and Firefox, and directly in the browser.  It's free, open-source, and *highly* recommended by people in the cybersecurity world.
-
-They have prescription glasses as low as $7!  They also have a wide variety of frames for higher prices, but I believe the most expensive is around $50.
-
-As an example, I needed some inexpensive prescription sunglasses to leave in my car, the wife's car, and my work backpack.  I got 4 pairs of glasses, one with polarization, for $100.
-
 
 ### [SyncThing](https://syncthing.net/)
 
