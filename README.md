@@ -9,7 +9,7 @@ This site is still in the setting up phase of life and I'm transitioning stuff f
 - [x] Develop Recipe Index
 - [x] Upload several Ukulele Tabs
 - [x] Develop Ukulele Index
-- [ ] Transfr projects from Blogger to Github
+- [ ] Transfer projects from Blogger to Github
 - [x] set up contact page
 - [x] develop css stylesheets
 - [x] ~~investigate twitter integration~~
@@ -22,4 +22,5 @@ This site is still in the setting up phase of life and I'm transitioning stuff f
 - [ ] Cyber security and internet privacy basics
 - [ ] setting up a pi-hole server
 - [ ] setting up my PiVPN server
+- [ ] Dns options if you don't pihole
 - [x] List of useful links for quick reference
