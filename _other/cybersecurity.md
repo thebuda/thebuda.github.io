@@ -6,7 +6,7 @@ description: My current thoughts on cybersecurity and solutions to common man pr
 
 # Cybersecurity, Internet Privacy, and What You Can Do About Them
 
-*Update: 11 December 2019
+*Update: 11 December 2019*
 
 We live in a scary world that is rapidly evolving.  As our connections to one another increase and communications around the world speed up, the risks of being a victim increase proportionally.  Many people do not understand how the Internet works[^1], nor do most people understand how to protect themselves. [^2]
 
