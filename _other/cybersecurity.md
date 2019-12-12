@@ -167,6 +167,8 @@ Transportation layer Security using [Public Key cryptography](https://en.wikiped
 Virtual Private Networks are much more advanced but have because very commonplace and easy to use recently.  These services create an encrypted tunnel to pass all your web traffic out to a distant server and then access the public internet from there.  The benefit to you is that all of the servers between you and the VPN can not read you traffic.  There are plenty of free and paid VPNs out there, and this is too big a topic to include here, but I recommend you [read up](https://us.norton.com/internetsecurity-privacy-what-is-a-vpn.html). I personally use [NordVPN](https://nordvpn.com/) because it is easy and rather inexpensive if you bite the bullet for a longer subscription.  But there are some [free VPNs](https://www.techradar.com/vpn/best-free-vpn) worth considering depending on your use case.  My rule of thumb if to always run a VPN when I'm on a public wifi (hotels, coffee shop, etc). I've also taken to leavint it on when I'm anywhere away from my home just to maintain good VPN habits.
 
 
+***
+
 
 
 
