@@ -6,6 +6,8 @@ description: My current thoughts on cybersecurity and solutions to common man pr
 
 # Cybersecurity, Internet Privacy, and What You Can Do About Them
 
+*Update: 11 December 2019
+
 We live in a scary world that is rapidly evolving.  As our connections to one another increase and communications around the world speed up, the risks of being a victim increase proportionally.  Many people do not understand how the Internet works[^1], nor do most people understand how to protect themselves. [^2]
 
 [^1]: [https://www.youtube.com/watch?v=f99PcP0aFNE](https://www.youtube.com/watch?v=f99PcP0aFNE)
@@ -162,7 +164,7 @@ There are two primary guards against spying: Transportation Layer Security (or T
 
 Transportation layer Security using [Public Key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) to authenticate and encrypt transmitions between you and the server you are accessing.  The easiest way to check is to look for "https" at the beginning of the URL and a closed lock icon next to the URL at the top of your browser.  While you ma not have ever noticed it, you can actualy click on that icon and see the autheticated name of the website.  You should also wach for this when accessing critical information (like your bank or your email account.)
 
-Virtual Private Networks are much more advanced but have because very commonplace and easy to use recently.  These services create an encrypted tunnel to pass all your web traffic out to a distant server and then access the public internet from there.  The benefit to you is that all of the servers between you and the VPN can not read you traffic.  There are plenty of free and paid VPNs out there, and this is too big a topic to include here, but I recommend you [read up](https://us.norton.com/internetsecurity-privacy-what-is-a-vpn.html). I personally use [NordVPN](https://nordvpn.com/) because it is easy and rather inexpensive if you bite the bullet for a longer subscription.  But there are some [free VPNs](https://www.techradar.com/vpn/best-free-vpn) worth considering depending on your use case.  My rule of thumb if to always run a CPN when I'm on a public wifi (hotels, coffee shop, etc)
+Virtual Private Networks are much more advanced but have because very commonplace and easy to use recently.  These services create an encrypted tunnel to pass all your web traffic out to a distant server and then access the public internet from there.  The benefit to you is that all of the servers between you and the VPN can not read you traffic.  There are plenty of free and paid VPNs out there, and this is too big a topic to include here, but I recommend you [read up](https://us.norton.com/internetsecurity-privacy-what-is-a-vpn.html). I personally use [NordVPN](https://nordvpn.com/) because it is easy and rather inexpensive if you bite the bullet for a longer subscription.  But there are some [free VPNs](https://www.techradar.com/vpn/best-free-vpn) worth considering depending on your use case.  My rule of thumb if to always run a VPN when I'm on a public wifi (hotels, coffee shop, etc). I've also taken to leavint it on when I'm anywhere away from my home just to maintain good VPN habits.
 
 
 
