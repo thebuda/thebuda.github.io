@@ -63,3 +63,10 @@ h2:before {
 	text-align: right;
 	clear: both;
 }
+
+#image_center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
