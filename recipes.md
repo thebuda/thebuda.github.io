@@ -14,7 +14,7 @@ My full list of recipes I've digitized and uploaded.  Currently only sorted in a
   {% endfor %}
 </ul>
 
-Here are also irect links to recipes I go back to again and again with no modification
+Here are direct links to recipes I go back to again and again with no modification:
 
 <ul>
 	<li>
