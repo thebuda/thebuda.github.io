@@ -11,7 +11,9 @@ low_carb: yes
 
 - 1.25-pound ground chicken or turkey
 - 15 oz canned white beans (navy beans generally but anything on hand), drained and rinsed
-- 14 oz can diced tomatoes, drained
+- 14 oz can diced tomatoes, drained OR 12 oz can Rotel
+- 3 carrots, diced
+- 1 cup frozen corn
 - 2 cups chicken broth
 - 1/4 - 1/2 cup buffalo wing sauce (I like 1/2 cup, but if you have non-spicy guests go lower)
 - 1 package ranch dressing mix
