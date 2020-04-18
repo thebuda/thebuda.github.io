@@ -41,7 +41,7 @@ As an example, I needed some inexpensive prescription sunglasses to leave in my 
 
 ### [SyncThing](https://syncthing.net/)
 
-Its a terrible name for a fantastic product.  The software allows you to keep folders synced across multiple machines.  Much like Dropbox, but without the cloud storage, and without the fees.  My wife does work on our main desktop but needs to present it on her laptop. Anything she saves in the SyncThing folder is automatically synced to her laptop (and my two computers in case her machine has problems).  
+It's a terrible name for a fantastic product.  The software allows you to keep folders synced across multiple machines.  Much like Dropbox, but without the cloud storage, and without the fees.  My wife does work on our main desktop but needs to present it on her laptop. Anything she saves in the SyncThing folder is automatically synced to her laptop (and my two computers in case her machine has problems).  
 
 The software can be installed on Windows, Mac, or Linux.  Windows users will want to install [SyncTrayzor](https://github.com/canton7/SyncTrayzor/releases/latest).
 
