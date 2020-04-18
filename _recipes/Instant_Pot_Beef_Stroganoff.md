@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Instant Pot Beef Stroganoff
+title: Beef Stroganoff (Instant Pot)
 type: One Pot Meal
 low_carb: no
 ---
