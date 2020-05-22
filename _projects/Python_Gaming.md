@@ -8,9 +8,9 @@ description: My first graphical game, written in Python
 
 <img src="http://www.mightybuda.com\images\CentFleet1.png" class="image_center">
 
-I decided, given some free time in the evenings, I would work on my programming skills some more. In general I find it easier to learn with a program then just following a lesson on methods, so I chose to make a game.
+I decided, given some free time in the evenings, I would work on my programming skills some more. In general I find it easier to learn with a project in mind then just following a lesson on methods, so I chose to make a game.
 
-I'm actually pretty happy with how it turned out with only a few evenings work.  I even went and made my own (crappy) graphics for it, just to claim its all mine. The coding was a fun exercise in problem solving, with loops within loops.  There's nothing here a real programmer, or even a comp sci major, would be impressed by, but its all mine and I like it.
+I'm actually pretty happy with how it turned out with only a few evenings work.  I even went and made my own (crappy) graphics for it, just to claim its all mine. The coding was a fun exercise in problem solving, with loops within loops, a scaling difficulty, and some random movement.  There's nothing here a real programmer, or even a comp sci major, would be impressed by, but its all mine and I like it.
 
  <img src="http://www.mightybuda.com\images\CentFleet2.png" class="image_center">
  
