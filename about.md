@@ -6,7 +6,7 @@ title: About...all of this
 
 I've been making websites on and off for over 20 years.  I started at [Angelfire](https://en.wikipedia.org/wiki/Angelfire){:target="_blank"} when they opened in 1996, then moved to [Geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities){:target="_blank"} for a few years before settling at Fuitadnet for a while.  Then I jumped to [ipage](https://en.wikipedia.org/wiki/IPage){:target="_blank"} for 5-6 years running a Wordpress blog. For the last few years, I was at [Blogger](https://en.wikipedia.org/wiki/Blogger_(service)){:target="_blank"} because it was easy and free. 
 
-*"Thanks for the worthless history lesson Buda, but, who cares?*
+*"Thanks for the worthless history lesson Buda, but, who cares?"*
 
 Fair point, but the reason I say all of that is I've been around the block and having wasted a lot of time chasing after the next thing, I wanted to get back to basics.  I've moved over to Github Pages because a) it's free, b) open to all sorts of hand-coding options, c) lets me share my code with you if your interested (you can see everything at [https://github.com/thebuda/thebuda.github.io](https://github.com/thebuda/thebuda.github.io){:target="_blank"}, and d) is helping me learn more and more.
 
