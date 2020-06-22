@@ -23,4 +23,7 @@ Here are direct links to recipes I go back to again and again with no modificati
 	<li>
 		<a href="https://www.hippressurecooking.com/pressure-cooker-risotto-in-7-minutes/"> Pressure Cooker Risotto </a>
 	</li>
+	<li>
+		<a href="https://altonbrown.com/pressure-cooker-eggs-recipe/"> Pressure Cooker Hard Boiled Eggs (super ease to peel) </a>
+	</li>
 </ul>
