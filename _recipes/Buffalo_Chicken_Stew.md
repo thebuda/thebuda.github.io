@@ -17,7 +17,6 @@ low_carb: yes
 - 2 cups chicken broth
 - 1/4 - 1/2 cup buffalo wing sauce (I like 1/2 cup, but if you have non-spicy guests go lower)
 - 1 package ranch dressing mix
-- 1 cup frozen corn kernels
 - 1/2 teaspoon onion powder
 - 1/2 teaspoon garlic powder
 - 1/2 teaspoon celery salt
@@ -28,8 +27,18 @@ low_carb: yes
 
 ## Instructions
 
+For the Instant Pot:
+
 1. Brown ground poultry until fully cooked in Instant Pot on Saute setting
 2. Add remaining ingredients except for blue cheese. Leave the cream cheese in a block on top, it will get stirred in later.
 3. Cook on high pressure for 45 minutes
 4. Natural release pressure and stir well to combine cream cheese
+5. Served with a sprinkling of blue cheese on top
+
+For the Slow Cooker:
+
+1. Brown ground poultry in skillet over medium heat until fully cooked.
+2. Add browned meat and remaining ingredients (except for blue cheese) to slow cooker. Leave the cream cheese in a block on top, it will get stirred in later.
+3. Cook on high for 4 hours or low for 8 hours.
+4. Stir well to combine cream cheese.
 5. Served with a sprinkling of blue cheese on top
