@@ -5,7 +5,7 @@ body {
 }
 
 a {
-	text-decoration: underline;
+	text-decoration: underline dotted;
 	color: #333333;
 }
 
