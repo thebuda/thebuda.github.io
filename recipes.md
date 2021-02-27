@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "A list of recipes"
+title: "Mighty Buda's Recipe List"
 ---
 # Recipe Collections
 
