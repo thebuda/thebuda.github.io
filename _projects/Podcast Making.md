@@ -22,9 +22,9 @@ Let's break things down into three sections: Recording, Editing, and Hosting.  F
 
 The first step to a podcast is, of course, recording.  Everything starts with quality audio captured through a microphone.  You can do a lot in post-editing, but if you don't have decent audio to start, you're dead in the water.
 
-I spent a few bucks and bought a [condenser microphone](https://www.neumann.com/homestudio/en/what-is-a-condenser-microphone). Specifically, I bought a [TONOR TC-777](https://amzn.to/3dSv0PW), but there are several options on the market, with wide-ranging quality.  Any dedicated microphone is better than what you have built into your webcam or laptop, so you need to dro a few bucks on this.  I tried my headset I use for work calls, and while it was noticeably better than the built-in mic, it lacked the depth of sound from the condenser mic.
+I spent a few bucks and bought a [condenser microphone](https://www.neumann.com/homestudio/en/what-is-a-condenser-microphone). Specifically, I bought a [TONOR TC-777](https://amzn.to/3dSv0PW), but there are several options on the market, with wide-ranging quality.  Any dedicated microphone is better than what you have built into your webcam or laptop, so you need to drop a few bucks on this.  I tried my headset I use for work calls, and while it was noticeably better than the built-in mic, it lacked the depth of sound from the condenser mic.
 
-For recording itself, you have a lot of options.  If you are recording by yourself, I strongly recommend [Audacity](https://www.audacityteam.org/).  It's free, open-source, and also what I use for editing.  You can also use the including audio recorder on your computer, but your quality may suffer.
+For recording itself, you have a lot of options.  If you are recording by yourself, I strongly recommend [Audacity](https://www.audacityteam.org/).  It's free, open-source, and also what I use for editing.  You can also use the included audio recorder on your computer, but your quality may suffer.
 
 Because I was recording with someone else, I needed a different solution.  I looked around the internet and settled on using [Zencastr](https://zencastr.com/), a podcast recording platform for geographically separated hosts.  I liked Zencastr for three reasons: 1) It was free, 2) it was simple, 3) it recorded locally, and then uploaded separate audio files for each person.  While you can use Skype or Zoom to record audio, you get a single file, so you can't adjust the speakers individually.  With separate files, you can remove coughs or background noise without affecting the speaker. After recording, files can be downloaded and/or automatically uploaded to a cloud storage site (I use Google Drive).
 
@@ -52,5 +52,5 @@ So summing it all up, I spent $40 on a microphone, $12 on production credits, $9
 
 Total cost: $61 
 
-With that, I've run a podcast, with a co-host, for half a year and posted over 6 hours of editing and processed podcasts that are still up and available today. My only reoccurring cost is the domain, which isn't even necessary.
+With that, I've run a podcast, with a co-host, for half a year and posted over 6 hours of edited and processed podcasts that are still up and available today. My only reoccurring cost is the domain, which isn't even necessary.
  
