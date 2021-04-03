@@ -10,7 +10,7 @@ low_carb: yes
 ## Ingredients
 
 - 6 Fresh Eggs
-- 1/2 Cup Water
+- 1 Cup Water
 
 
 ## Instructions
