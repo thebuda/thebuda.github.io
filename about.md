@@ -30,3 +30,6 @@ I'm a licensed Professional Engineer, living in Virginia and working in Governme
 I hate spam, so I'm not one to put my personal email address out there.  If you'd like to contact me, please use Twitter ([@thebuda](https://twitter.com/intent/tweet?screen_name=thebuda){:target="_blank"}).
 
 You can also message me on Reddit at [u/Thebuda/](https://www.reddit.com/user/Thebuda/){:target="_blank"} if you're not a Twitter user.
+
+And if any of this was helpful you can send me a crypto tip to below wallet addresses:
+Monero: 497Ahh3G72bJpkcWyYbKYSRFRSGP794i36e1spBXC4vpgj3rK684NUzTxZZJ2BB8VdCHT2v8gcUbg1DwmqN41hxUQZEWRpf
