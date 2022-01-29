@@ -32,4 +32,7 @@ I hate spam, so I'm not one to put my personal email address out there.  If you'
 You can also message me on Reddit at [u/Thebuda/](https://www.reddit.com/user/Thebuda/){:target="_blank"} if you're not a Twitter user.
 
 And if any of this was helpful you can send me a crypto tip to below wallet addresses:
+
 Monero: 497Ahh3G72bJpkcWyYbKYSRFRSGP794i36e1spBXC4vpgj3rK684NUzTxZZJ2BB8VdCHT2v8gcUbg1DwmqN41hxUQZEWRpf
+
+Doge: DLfSG2AEuMkqYfkiv4EjwtWg2jxgn2hh2P
